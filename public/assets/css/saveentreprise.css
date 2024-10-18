@@ -1,0 +1,153 @@
+
+    .form-label {
+        font-weight: 500;
+        font-size: 14px;
+        color: #333;
+    }
+
+    .form-control {
+        border-radius: 8px;
+        border: 1px solid #ccc;
+        box-shadow: none;
+        transition: all 0.3s ease;
+    }
+
+    .form-control:focus {
+        border-color: #007bff;
+        box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    }
+
+    .color-picker {
+        padding: 5px;
+        border-radius: 8px;
+        border: none;
+        width: 100%;
+        height: 40px;
+        cursor: pointer;
+        background-color: transparent;
+    }
+
+    .size-input {
+        width: 100%;
+    }
+
+    .mb-3 {
+        margin-bottom: 1.5rem;
+    }
+
+    .btn {
+        border-radius: 8px;
+        transition: all 0.3s ease;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+    }
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+    }
+
+    .btn-success {
+        background-color: #28a745;
+        border: none;
+    }
+
+    .btn-success:hover {
+        background-color: #218838;
+    }
+
+    hr {
+        border-top: 1px solid #dee2e6;
+        margin: 1.5rem 0;
+    }
+
+    .card {
+        border-radius: 12px;
+        border: none;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: #007bff;
+    }
+
+
+    .form-label {
+        font-weight: 500;
+        font-size: 14px;
+        color: #333;
+    }
+
+    .form-control {
+        border-radius: 8px;
+        border: 1px solid #ccc;
+        box-shadow: none;
+        transition: all 0.3s ease;
+    }
+
+    .form-control:focus {
+        border-color: #007bff;
+        box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    }
+
+    .color-picker {
+        padding: 5px;
+        border-radius: 8px;
+        border: none;
+        width: 100%;
+        height: 40px;
+        cursor: pointer;
+        background-color: transparent;
+    }
+
+    .size-input {
+        width: 100%;
+    }
+
+    .mb-3 {
+        margin-bottom: 1.5rem;
+    }
+
+    .btn {
+        border-radius: 8px;
+        transition: all 0.3s ease;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+    }
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+    }
+
+    .btn-success {
+        background-color: #28a745;
+        border: none;
+    }
+
+    .btn-success:hover {
+        background-color: #218838;
+    }
+
+    hr {
+        border-top: 1px solid #dee2e6;
+        margin: 1.5rem 0;
+    }
+
+    .card {
+        border-radius: 12px;
+        border: none;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: #007bff;
+    }
